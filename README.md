@@ -5,7 +5,8 @@ task1
 </title>
 <center>
 <font size=21 color=lightblue>
-sai sandeep</center></font>
+sai sandeep</font>
+</center>
 </head>
 <body bgcolor=lightyellow>
 <h1>
